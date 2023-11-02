@@ -2,10 +2,11 @@
 # Online Quiz Platform
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Alex Joseph [Embed personal github URL]
+2. Anas [Embed perosnal github URL]
+3. Sherrie [Embed perosnal github URL]
 ## Team Id
-Team id here
+newbies
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
